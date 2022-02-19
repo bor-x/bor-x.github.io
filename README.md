@@ -1,2 +1,2 @@
-# borx.github.io
+# bor-x.github.io
 Boris talks BI
